@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "206091444174",
+    "firebase_url": "https://sisparty-dc596.firebaseio.com",
+    "project_id": "sisparty-dc596",
+    "storage_bucket": "sisparty-dc596.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:206091444174:android:b6849d95e0594e78dd559f",
+        "android_client_info": {
+          "package_name": "com.example.sisparty"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "206091444174-vacsm979vopfqansntslfli97kb3s2sj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sisparty",
+            "certificate_hash": "10ee4a14d2af92e30e1b860aa9d84ade5c3a3ce4"
+          }
+        },
+        {
+          "client_id": "206091444174-i8cjqs0si2gagu5s96494r4jmq6ogt7l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQYJbcBhQj6A2FLt8U6n2W_hX9VW0Ru80"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "206091444174-i8cjqs0si2gagu5s96494r4jmq6ogt7l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
